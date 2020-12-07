@@ -1,0 +1,6 @@
+<odoo>
+    <!-- create group corresponding to view/openacademy.xml  -->
+    <record id="group_openacademy_manager" model="res.groups">
+        <field name="name">OpenAcademy / Manager</field>
+    </record>
+</odoo>
